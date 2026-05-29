@@ -1,4 +1,4 @@
-# TASK: training a binary classification model on 2000 images using CNN
+# TASK: training a binary classification (base-line) model on 2000 images using CNN
 
 from pathlib import Path
 # first, we see how many samples we have, and how they're named!
