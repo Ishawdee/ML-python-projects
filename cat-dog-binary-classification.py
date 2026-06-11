@@ -1,4 +1,4 @@
-# TASK: training a binary classification baseline model on 2000 images of cats and dogs using CNN
+# Training a binary classification baseline model on 2000 images of cats and dogs using CNN
 # Test accuracy: ~76%
 
 from pathlib import Path
