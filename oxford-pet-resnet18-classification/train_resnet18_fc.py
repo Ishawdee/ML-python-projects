@@ -1,4 +1,4 @@
-# multi-class classification for 37 different pet breed, experiment1
+# multi-class classification for 37 different pet breed, experiment 1
 # using OxfordIIITPet dataset and ResNet18 pretrained model
 # freezing all layers but the final fc layer
 # 84.71% test accuracy
