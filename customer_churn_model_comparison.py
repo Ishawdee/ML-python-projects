@@ -404,7 +404,7 @@ best_model_name = results_df.sort_values(
 
 print("\nBest model by Churn F1:", best_model_name)
 
-# best model ended up being random forest balanced:
+# best model (best churn f1) ended up being random forest balanced:
 # Random Forest Balanced
 # Churn precision: 0.5158
 # Churn recall:    0.7834
