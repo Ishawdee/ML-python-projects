@@ -1,4 +1,5 @@
 # Customer churn prediction using different classic ML algorithms.
+# Using Telco customer churn dataset.
 # Goal: to predict whether a customer will leave the company.
 # This project compares Logistic Regression, KNN, Decision Tree, and Random Forest.
 
