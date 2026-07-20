@@ -1,5 +1,5 @@
-# Customer churn prediction using different classical ML algorithms.
-# Goal: predict whether a customer will leave the company.
+# Customer churn prediction using different classic ML algorithms.
+# Goal: to predict whether a customer will leave the company.
 # This project compares Logistic Regression, KNN, Decision Tree, and Random Forest.
 
 import pandas as pd
